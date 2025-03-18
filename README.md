@@ -1,4 +1,3 @@
-Sure, babe! Here's a clean, structured **documentation and description** for your `LL` (Linked List) class. This will help you or anyone else understand how to use and maintain the code. I've structured it like official documentation, with class overviews, method summaries, and details.
 
 ---
 
